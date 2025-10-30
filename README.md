@@ -8,7 +8,6 @@ So far I have worked with:
 - Github
 - Vercel
 - Figma
-- 
 
 <!--
 **enwkurs/enwkurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
