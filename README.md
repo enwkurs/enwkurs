@@ -1,4 +1,14 @@
-## Hi there 👋
+# Welcome
+
+So far I have worked with:
+- HTML
+- Javascript
+- CSS
+- Stackblitz
+- Github
+- Vercel
+- Figma
+- 
 
 <!--
 **enwkurs/enwkurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
